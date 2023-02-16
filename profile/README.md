@@ -15,8 +15,7 @@ This project is a kiosk device application that connects customers to call cente
 
 ## Video Presentation
 
-[![video presentation](https://user-images.githubusercontent.com/102705118/219301158-5e00c374-8e02-4fb2-83e3-e30716498824.png)
-](https://www.youtube.com/watch?v=XbxoET3iyCc)
+[![video presentation](https://user-images.githubusercontent.com/102705118/219301158-5e00c374-8e02-4fb2-83e3-e30716498824.png)](https://www.youtube.com/watch?v=XbxoET3iyCc)
 
 ## Techstack
 
@@ -26,8 +25,8 @@ This project is a kiosk device application that connects customers to call cente
 ## Our Team
 
 - [Taro 🇯🇵 (Full Stack)](https://github.com/taro-ishihara)
-- [Emeka 🇳🇬 (Backend)](https://github.com/author2)
-- [Sue 🇰🇷 (Backend)](https://github.com/author2)
+- [Emeka 🇳🇬 (Backend)](https://github.com/EmekaU)
+- [Sue 🇰🇷 (Backend)](https://github.com/suekim59)
 - [JackJack 🇺🇸 (Frontend)](https://github.com/JackYouk)
 
 ## License

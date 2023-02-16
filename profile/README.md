@@ -6,7 +6,7 @@ Built for the DevWeek 2023 Hackathon's Zoom SDK and Oracle Microservices Challen
 
 ## Description
 
-This project is a kiosk device application that connects customers to call center agents via the zoom sdk. After the call, our application utilizes OCI's mediaflow  machine learning service to transcript the recording data to text, automatically sorting into categories for future use in quality assurance, FAQ tables, call script generation, and countless other applications. Our application is also hosted on the Oracle Cloud and uses the OCI NoSQL database.
+This project is a kiosk device application that connects customers to call center agents via the zoom sdk. After the call, our application utilizes OCI's mediaflow  machine learning service to transcript the recording data to text, automatically sorting into categories for future use in quality assurance, FAQ tables, call script generation, and countless other applications. Our application is deployed to Azure Functions (with Azure - OCI Interconnect).
 
 ## Deployed Application
 

@@ -10,8 +10,8 @@ This project is a kiosk device application that connects customers to call cente
 
 ## Deployed Application
 
-- [kiosk app](https://app.com/)
-- [admin app](https://app.com/) (Guest Account: u=USERNAME, p=PASSWORD)
+- [kiosk app](https://developerweek2023.web.app/)
+- [admin app](https://contact-digital-signage-app.s3.us-west-1.amazonaws.com/index.html) (Guest Account: u=testuser1@example.com, p=PASSWORD)
 
 ## Video Presentation
 

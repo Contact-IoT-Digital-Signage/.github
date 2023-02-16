@@ -25,7 +25,7 @@ This project is a kiosk device application that connects customers to call cente
 
 ## Our Team
 
-- [Taro 🇯🇵 (Full Stack)](https://github.com/author1)
+- [Taro 🇯🇵 (Full Stack)](https://github.com/taro-ishihara)
 - [Emeka 🇳🇬 (Backend)](https://github.com/author2)
 - [Sue 🇰🇷 (Backend)](https://github.com/author2)
 - [JackJack 🇺🇸 (Frontend)](https://github.com/JackYouk)
